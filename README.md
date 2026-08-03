@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
@@ -51,9 +52,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 <!---LeetCode Topics End-->
