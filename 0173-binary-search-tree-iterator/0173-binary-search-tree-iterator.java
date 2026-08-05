@@ -29,8 +29,7 @@ class BSTIterator {
     }
     
     public int next() {
-        TreeNode ans = s.peek();
-        s.pop();
+        TreeNode ans = s.pop();
 
         storeLeftNode(ans.right);
         return ans.val;
