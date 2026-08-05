@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
@@ -55,16 +56,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
