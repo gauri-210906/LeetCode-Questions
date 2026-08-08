@@ -24,20 +24,14 @@ class Solution {
 
         if (start > end) return null;
 
-        // First element is the root
         TreeNode root = new TreeNode(preorder[start]);
 
         int i = start + 1;
-
-        // Find first element greater than root
         while (i <= end && preorder[i] < root.val) {
             i++;
         }
 
-        // Elements before i -- left subtree
         root.left = build(preorder, start + 1, i - 1);
-
-        // Elements from i -- right subtree
         root.right = build(preorder, i, end);
 
         return root;
