@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
