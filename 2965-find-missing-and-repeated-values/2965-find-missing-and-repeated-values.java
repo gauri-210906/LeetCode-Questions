@@ -21,7 +21,6 @@ class Solution {
         }
 
         int expSum = (n * n * (n * n + 1)) / 2;
-
         int mis = expSum - actualSum + rep;
 
         return new int[]{rep, mis};
