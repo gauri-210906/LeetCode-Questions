@@ -4,7 +4,7 @@ class Solution {
         int n = grid.length;
         HashSet<Integer> set = new HashSet<>();
 
-        int rep = -1;
+        int rep = 0;
         int actualSum = 0;
 
         for(int i=0; i<n; i++){
@@ -22,7 +22,7 @@ class Solution {
 
         int expSum = (n * n * (n * n + 1)) / 2;
 
-        int mis = expSum -actualSum + rep;
+        int mis = expSum - actualSum + rep;
 
         return new int[]{rep, mis};
         
