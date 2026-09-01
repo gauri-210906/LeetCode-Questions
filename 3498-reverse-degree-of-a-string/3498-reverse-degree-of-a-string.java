@@ -3,13 +3,9 @@ class Solution {
         int sum = 0;
 
         for(int i=0; i<s.length(); i++){
-            char ch = s.charAt(i);
+            int revValue = 26 - (s.charAt(i) - 'a');
 
-            int value = 26 - (ch - 'a');
-
-            int pos = i + 1;
-
-            sum += value * pos;
+            sum += revValue * (i + 1);
         }
 
         return sum;
