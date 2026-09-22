@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-
     int i = 0;
 
     TreeNode helper(int[] preorder, int bound){
@@ -29,7 +28,7 @@ class Solution {
 
         return root;
     }
-
+   
     public TreeNode bstFromPreorder(int[] preorder) {
 
         int i = 0;
