@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0917-reverse-only-letters) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [2810-faulty-keyboard](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
