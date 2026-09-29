@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
