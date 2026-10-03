@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
