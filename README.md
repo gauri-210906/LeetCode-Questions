@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
