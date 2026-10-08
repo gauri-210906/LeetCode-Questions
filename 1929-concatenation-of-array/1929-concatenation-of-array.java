@@ -6,6 +6,9 @@ class Solution {
 
         for(int i=0; i<n; i++){
             res[i] = nums[i];
+        }
+
+        for(int i=0; i<n; i++){
             res[i + n] = nums[i];
         }
 
