@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/gauri-210906/LeetCode-Questions/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/gauri-210906/LeetCode-Questions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
