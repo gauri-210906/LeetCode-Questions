@@ -4,13 +4,8 @@ class Solution {
 
         int[] res = new int[2 * n];
 
-        for(int i=0; i<n; i++){
-            res[i] = nums[i];
-        }
-
-        for(int i=0; i<n; i++){
-            res[i + n] = nums[i];
-        }
+        System.arraycopy(nums, 0, res, 0, n);
+        System.arraycopy(nums, 0, res, n, n);
 
         return res;
     }
