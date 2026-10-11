@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0204-count-primes](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0645-set-mismatch) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/gauri-210906/LeetCode-Questions/tree/master/0917-reverse-only-letters) |
